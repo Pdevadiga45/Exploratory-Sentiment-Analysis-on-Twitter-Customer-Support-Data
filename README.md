@@ -4,6 +4,11 @@ Sentiment Analysis On Customer Support of Some of the Biggest Brands Using Twitt
 
 Model used: Bert Base 
 
+Brands under observation : AppleSupport, AmazonHelp, Uber_Support, Delta, SpotifyCares,
+        Tesco, AmericanAir, comcastcares, TMobileHelp, British_Airways,
+        SouthwestAir, Ask_Spectrum, hulu_support, ChipotleTweets, sprintcare,
+        VirginTrains, AskPlayStation, XboxSupport, UPSHelp,sainsburys
+        
 Customer Support Dataset: https://www.kaggle.com/datasets/thoughtvector/customer-support-on-twitter/code
 
 Dataset used to fine-tune the model: Stanford Sentiment TreeBank with 5 labels (SST-5)
