@@ -4,7 +4,9 @@ Sentiment Analysis On Customer Support of Some of the Biggest Brands Using Twitt
 
 Model used: Bert Base 
 
-Dataset used to train the model: Stanford Sentiment TreeBank with 5 labels (SST-5)
+Customer Support Dataset: https://www.kaggle.com/datasets/thoughtvector/customer-support-on-twitter/code
+
+Dataset used to fine-tune the model: Stanford Sentiment TreeBank with 5 labels (SST-5)
 
 The pre-trained Bert model is used to perform sentiment analysis on a dataset consisting of over 3 million customer support related tweets from some of the biggest brands. 
 The model does in general show a lower accuracy of around 50% when trained on the SST-5 Dataset which is due to the increased complexity of the fine-grained sentiment classification task. Also, subtle differences in sentiment make it harder for models to achieve high accuracy on SST-5. 
