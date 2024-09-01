@@ -19,6 +19,8 @@ However, the lower accuracy is still on par with the state-of-the-art accuracy w
 
 Inference derived from the graphs:
 Graph 1: Sentiment Analysis of Initial Customer Tweets 
+
+
 ![image](https://github.com/user-attachments/assets/10339200-826b-4a6d-a073-8a0548d39d8a)
 
 
@@ -30,6 +32,10 @@ Spotify shows a relatively balanced sentiment distribution, with a noticeable po
 
 
 Graph 2: Sentiment Analysis of Customer Responses to Brand Tweets 
+
+![image](https://github.com/user-attachments/assets/4886e713-4b2d-4ddb-afc5-d46fe6bceb0d)
+
+
 
 Delta, hulu support, Ask Spectrum and AmericanAir does still show notable negative responses, indicating ongoing dissatisfaction despite customer support interactions.
 
