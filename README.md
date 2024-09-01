@@ -1,7 +1,9 @@
 # Sentiment-Analysis-on-Twitter-Customer-Support-Dataset
 
 Sentiment Analysis On Customer Support of Some of the Biggest Brands Using Twitter.
+
 Model used: Bert Base 
+
 Dataset used to train the model: Stanford Sentiment TreeBank with 5 labels (SST-5)
 
 The pre-trained Bert model is used to perform sentiment analysis on a dataset consisting of over 3 million customer support related tweets from some of the biggest brands. 
