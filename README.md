@@ -1,4 +1,4 @@
-# Sentiment Analysis On Customer Support of Some of the Biggest Brands Using Twitter.
+# Exploratory Sentiment Analysis on Twitter Customer Support Data.
 
 Sentiment Analysis On Customer Support of Some of the Biggest Brands Using Twitter.
 
